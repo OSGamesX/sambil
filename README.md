@@ -2,7 +2,9 @@
 
 Forked Open source webGL game made with three.js
 
-![Screenshot of Sambil](https://felixmariotto.s3.eu-west-3.amazonaws.com/new_teaser_github1.gif)
+![Logo of Sambil](sambil.png)
+
+Play at [sambil.es](https:/sambil.es) 
 
 # How it works
 
